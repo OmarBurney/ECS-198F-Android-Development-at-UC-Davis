@@ -1,4 +1,4 @@
-# ECS-198F-Android-Development-UC-Davis
+# ECS 198F Android Development at UC Davis
 
 - [Course Website][Course Website]
 
